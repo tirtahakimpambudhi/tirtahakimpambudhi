@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtahakimpambudhi&label=Profile%20views&color=0e75b6&style=flat" alt="tirtahakimpambudhi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirtahakimpambudhi" alt="tirtahakimpambudhi" /></a> </p>
+
 - 🔭 I’m currently Study on **SMK N 2 YOGYAKARTA**
 
 - 🌱 I’m currently learning **Fiber,Gin , ExpressJS, TailwindCSS,and React**
