@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tirta Hakim Pambudhi</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A Passionate Backend Developer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtahakimpambudhi&label=Profile%20views&color=0e75b6&style=flat" alt="tirtahakimpambudhi" /> </p>
 
