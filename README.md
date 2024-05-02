@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Study on **SMK N 2 YOGYAKARTA**
 
-- 🌱 I’m currently learning **Fiber,Gin , ExpressJS, TailwindCSS,and React**
+- 🌱 I’m currently learning **Fiber,Gin,ExpressJS,TailwindCSS,and ReactJS**
 
 - 📫 How to reach me **tirtanewwhakim22@gmail.com**
 
