@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tirtanewwhakim22@gmail.com**
 
-- ⚡ Fun fact **I Noobie Programmer**
+- ⚡ Fun fact **I Noobie Programmer and someone please teach me front end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
